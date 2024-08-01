@@ -40,7 +40,7 @@ int main() <br>
 }
 ```
 
-![exp2(a)]
+![exp2(a)](https://github.com/shrey-raj24/CDS-Experiment2/blob/main/second%20A.png)
 
 Code for storage class: <br>
 ```
