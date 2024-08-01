@@ -1,5 +1,6 @@
 # CDS-Experiment--02 /* <br>
 Aim:To study and implement C++ Program Structure (Data Types) an storage class.<br>
+Software: Visual Studio Code
 
 Theory:<br>
 In C++, data types have specific sizes which determine how much memory is allocated for each type. For example, an int typically uses 4 bytes, char uses 1 byte, float uses 4 bytes, and double uses 8 bytes. Sizes can vary based on the system and compiler.<br>
