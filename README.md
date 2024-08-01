@@ -64,7 +64,7 @@ int main()
 
 }
 ```
-![exp2(b)]
+![exp2(b)](https://github.com/shrey-raj24/CDS-Experiment2/blob/main/Second%20B.png)
 
 
 
