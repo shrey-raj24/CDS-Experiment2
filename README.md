@@ -38,7 +38,7 @@ int main() <br>
     cout<< "The size of long double floating point is: "<<sizeof(h) << endl;
     cout<< "The size of a wide character is: "<<sizeof(wchar_t) << endl;
     return 0;
-}
+} Output:
 ```
 
 ![exp2(a)](https://github.com/shrey-raj24/CDS-Experiment2/blob/main/second%20A.png)
@@ -63,7 +63,7 @@ int main()
     s = 10;
     cout<<"The static variable: "<<s<<endl;
 
-}
+}Output:
 ```
 ![exp2(b)](https://github.com/shrey-raj24/CDS-Experiment2/blob/main/Second%20B.png)
 
